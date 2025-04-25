@@ -1,0 +1,13 @@
+{
+  "name": "bc1p-batch-sender",
+  "version": "1.0.0",
+  "dependencies": {
+    "@noble/curves": "^1.9.0",
+    "@noble/secp256k1": "^2.2.3",
+    "axios": "^1.6.0",
+    "bitcoinjs-lib": "^6.1.7",
+    "ecpair": "^2.1.0",
+    "tiny-secp256k1": "^2.2.3",
+    "wif": "^5.0.0"
+  }
+}
