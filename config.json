@@ -1,6 +1,6 @@
 {
-  "privateKey": "cVjybL3BnoDWP4uQnh24HxGxq5xBwvkeunSZZwNqTnZm5NcnD1k2",
-  "feeRate": 10,
-  "network": "testnet",
-  "sendAmountBTC": 0.0001
+  "privateKey": "bc1q地址私钥", 
+  "network": "mainnet",
+  "feeRate": 3,
+  "sendAmountBTC": 0.000006
 }
